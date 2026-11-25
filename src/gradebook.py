@@ -129,8 +129,4 @@ def main():
             print("Invalid choice. Enter 1-8.")
 
 
-if _name_ == "_main_":
-    main()
-
-if _name_ == "_main_":
-    main()
+main()
